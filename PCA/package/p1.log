@@ -1,0 +1,10 @@
+entering p1.f1
+exiting p1.f1
+entering p1.f2
+WARNING!: You entered m1, so don't enter m4
+exiting p1.f2
+entering p1.m3.f5
+exiting p1.m3.f5
+entering p1.p3.m4.f6
+ERROR!: Damn ,man. I told you not to enter m4
+exiting p1.p3.m4.f6
